@@ -6,12 +6,12 @@ It is becoming apparent that the next-generation IP route lookup architecture ne
 <table style="width:100%">
   <tr>
     <td><img src="https://github.com/JaberBabaki/FlashTrie-Beyond/blob/master/HPSR-PR1-%2096131020/screenShot/1.jpg" width="300" height="400" /></td>
-    <td><img src="https://github.com/JaberBabaki/FlashTrie-Beyond/blob/master/HPSR-PR1-%2096131020/screenShot/2.jpg" width="300" height="400" /></td>
-    <td><img src="https://github.com/JaberBabaki/FlashTrie-Beyond/blob/master/HPSR-PR1-%2096131020/screenShot/3.jpg" width="300" height="400" /></td>
+    <td><img src="https://github.com/JaberBabaki/FlashTrie-Beyond/blob/master/HPSR-PR1-%2096131020/screenShot/2.png" width="300" height="400" /></td>
+    <td><img src="https://github.com/JaberBabaki/FlashTrie-Beyond/blob/master/HPSR-PR1-%2096131020/screenShot/3.png" width="300" height="400" /></td>
   </tr>
     <tr>
     <td><img src="https://github.com/JaberBabaki/FlashTrie-Beyond/blob/master/HPSR-PR1-%2096131020/screenShot/4.jpg" width="300" height="400" /></td>
-    <td><img src="https://github.com/JaberBabaki/FlashTrie-Beyond/blob/master/HPSR-PR1-%2096131020/screenShot/5.jpg" width="300" height="400" /></td>
-    <td><img src="https://github.com/JaberBabaki/FlashTrie-Beyond/blob/master/HPSR-PR1-%2096131020/screenShot/6.jpg" width="300" height="400" /></td>
+    <td><img src="https://github.com/JaberBabaki/FlashTrie-Beyond/blob/master/HPSR-PR1-%2096131020/screenShot/5.png" width="300" height="400" /></td>
+    <td><img src="https://github.com/JaberBabaki/FlashTrie-Beyond/blob/master/HPSR-PR1-%2096131020/screenShot/6.png" width="300" height="400" /></td>
   </tr>
 </table>
