@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/card_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:elevation="4dp"
+        card_view:cardCornerRadius="4dp"
+        card_view:cardBackgroundColor="#e7e7e7">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:background="#e7e7e7">
+
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="96dp"
+            android:gravity="left|center|right"
+            android:orientation="horizontal"
+            >
+
+            <LinearLayout
+                android:layout_width="44dp"
+                android:layout_height="44dp"
+                android:orientation="vertical">
+
+                <ImageView
+                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                    android:id="@+id/profile_image"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:src="@drawable/ip"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <com.ario.flashtriebeyond.customView.CustomTextView
+                        android:id="@+id/prefix3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="8dp"
+                        android:layout_weight="0.5"
+                        android:gravity="center"
+                        android:text="Prefix"
+                        android:textColor="#2D5B81"
+                        android:textSize="16dp"/>
+
+                    <com.ario.flashtriebeyond.customView.CustomTextView
+                        android:id="@+id/prefix2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="8dp"
+                        android:layout_weight="0.5"
+                        android:gravity="center"
+                        android:text="NextHop"
+                        android:textColor="#FC3443"
+                        android:textSize="16dp"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.5"
+                    android:orientation="vertical">
+
+                    <com.ario.flashtriebeyond.customView.CustomTextView
+                        android:id="@+id/enterPort"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="4dp"
+                        android:layout_weight="0.5"
+                        android:gravity="center"
+                        android:text="محمد رمضانی"
+                        android:textColor="#2D5B81"
+                        android:textSize="16dp"/>
+
+                    <com.ario.flashtriebeyond.customView.CustomTextView
+                        android:id="@+id/txt_prefix"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="4dp"
+                        android:layout_weight="0.5"
+                        android:gravity="center"
+                        android:text="محمد رمضانی"
+                        android:textColor="#2D5B81"
+                        android:textSize="16dp"/>
+
+                    <com.ario.flashtriebeyond.customView.CustomTextView
+                        android:id="@+id/next_hop"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="4dp"
+                        android:layout_weight="0.5"
+                        android:gravity="center"
+                        android:text="شهید"
+                        android:textColor="#FC3443"
+                        android:textSize="16sp"/>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+  </android.support.v7.widget.CardView>
+</android.support.design.widget.CoordinatorLayout>
