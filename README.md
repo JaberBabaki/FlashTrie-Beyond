@@ -1,5 +1,5 @@
 # FlashTrie-Beyond
-> Fall 2018
+> Spring 2017
 
 # description
 It is becoming apparent that the next-generation IP route lookup architecture needs to achieve speeds of 100 Gb/s and beyond while supporting IPv4 and IPv6 with fast real-time updates to accommodate ever-growing routing tables. Some of the proposed multibit-trie-based schemes, such as TreeBitmap, have been used in today’s high-end routers. However, their large data structures often require multiple external memory accesses for each route lookup.
