@@ -1,4 +1,4 @@
-# FlashTrie-Beyond
+# FlashTrie
 > Spring 2017
 # Reference
 Bando, M., Lin, Y. and Chao, H. (2012). FlashTrie: Beyond 100-Gb/s IP Route Lookup Using Hash-Based Prefix-Compressed Trie. IEEE/ACM Transactions on Networking, 20(4), pp.1262-1275.
